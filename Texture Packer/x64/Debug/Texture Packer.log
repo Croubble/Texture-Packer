@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\Texture Packer\Texture Packer\Source.cpp(136,52): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+C:\Users\User\source\repos\Texture Packer\Texture Packer\Source.cpp(233,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Texture Packer\Texture Packer\Source.cpp(234,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Texture Packer\Texture Packer\Source.cpp(241,49): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Texture Packer.vcxproj -> C:\Users\User\source\repos\Texture Packer\x64\Debug\Texture Packer.exe

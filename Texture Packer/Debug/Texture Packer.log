@@ -1,0 +1,50 @@
+﻿  Source.cpp
+GL_Util.obj : error LNK2001: unresolved external symbol _glad_glTexParameteri
+Source.obj : error LNK2001: unresolved external symbol _glad_glTexParameteri
+GL_Util.obj : error LNK2001: unresolved external symbol _glad_glTexImage2D
+Source.obj : error LNK2001: unresolved external symbol _glad_glTexImage2D
+GL_Util.obj : error LNK2001: unresolved external symbol _glad_glEnable
+GL_Util.obj : error LNK2001: unresolved external symbol _glad_glGetError
+GL_Util.obj : error LNK2001: unresolved external symbol _glad_glBindTexture
+Source.obj : error LNK2001: unresolved external symbol _glad_glBindTexture
+GL_Util.obj : error LNK2001: unresolved external symbol _glad_glGenTextures
+Source.obj : error LNK2001: unresolved external symbol _glad_glGenTextures
+GL_Util.obj : error LNK2001: unresolved external symbol _glad_glAttachShader
+GL_Util.obj : error LNK2001: unresolved external symbol _glad_glCompileShader
+GL_Util.obj : error LNK2001: unresolved external symbol _glad_glCreateProgram
+GL_Util.obj : error LNK2001: unresolved external symbol _glad_glCreateShader
+GL_Util.obj : error LNK2001: unresolved external symbol _glad_glDeleteShader
+GL_Util.obj : error LNK2001: unresolved external symbol _glad_glGetProgramiv
+GL_Util.obj : error LNK2001: unresolved external symbol _glad_glGetProgramInfoLog
+GL_Util.obj : error LNK2001: unresolved external symbol _glad_glGetShaderiv
+GL_Util.obj : error LNK2001: unresolved external symbol _glad_glGetShaderInfoLog
+GL_Util.obj : error LNK2001: unresolved external symbol _glad_glGetUniformLocation
+GL_Util.obj : error LNK2001: unresolved external symbol _glad_glLinkProgram
+GL_Util.obj : error LNK2001: unresolved external symbol _glad_glShaderSource
+GL_Util.obj : error LNK2001: unresolved external symbol _glad_glUseProgram
+GL_Util.obj : error LNK2001: unresolved external symbol _glad_glUniform1f
+GL_Util.obj : error LNK2001: unresolved external symbol _glad_glUniform2f
+GL_Util.obj : error LNK2001: unresolved external symbol _glad_glUniform3f
+GL_Util.obj : error LNK2001: unresolved external symbol _glad_glUniform4f
+GL_Util.obj : error LNK2001: unresolved external symbol _glad_glUniform1i
+GL_Util.obj : error LNK2001: unresolved external symbol _glad_glUniformMatrix2fv
+GL_Util.obj : error LNK2001: unresolved external symbol _glad_glUniformMatrix3fv
+GL_Util.obj : error LNK2001: unresolved external symbol _glad_glUniformMatrix4fv
+Source.obj : error LNK2019: unresolved external symbol _SDL_CreateWindow referenced in function _SDL_main
+Source.obj : error LNK2019: unresolved external symbol _SDL_GL_SetAttribute referenced in function _SDL_main
+Source.obj : error LNK2019: unresolved external symbol _SDL_GL_CreateContext referenced in function _SDL_main
+Source.obj : error LNK2019: unresolved external symbol _SDL_CreateRenderer referenced in function _SDL_main
+Source.obj : error LNK2019: unresolved external symbol _SDL_Init referenced in function _SDL_main
+Source.obj : error LNK2001: unresolved external symbol _glad_glViewport
+Source.obj : error LNK2001: unresolved external symbol _glad_glBindBuffer
+Source.obj : error LNK2001: unresolved external symbol _glad_glGenBuffers
+Source.obj : error LNK2001: unresolved external symbol _glad_glBufferData
+Source.obj : error LNK2001: unresolved external symbol _glad_glBindFramebuffer
+Source.obj : error LNK2001: unresolved external symbol _glad_glGenFramebuffers
+Source.obj : error LNK2001: unresolved external symbol _glad_glFramebufferTexture2D
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\OpenGL\Lib\freetype.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\SDL2\lib\x64\SDL2.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\SDL2\lib\x64\SDL2main.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\OpenGL\Lib\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\User\source\repos\Texture Packer\Debug\Texture Packer.exe : fatal error LNK1120: 40 unresolved externals
